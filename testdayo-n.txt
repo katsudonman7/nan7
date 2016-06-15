@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(){
+	printf("hahahda\n");
+	return 0;
+}
